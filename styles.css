@@ -68,7 +68,7 @@ section h2 {
 
 .placeholder-image {
     display: block;
-    max-width: 20%; /* Adjusted to make the images half their previous size */
+    max-width: 50%; /* Adjusted to make the images half their previous size */
     height: auto;
     margin: 10px 0;
 }
